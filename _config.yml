@@ -6,16 +6,16 @@ relative_permalinks: true
 
 # Setup
 title:               Sauerstoff
-tagline:             'Scale Modelling and sundry geekery.'
+tagline:             'Scale Modelling and Sundry Geekery'
 description:         'A self indulgent exposé of modelling, gaming, code and whatever else I fancy.'
-url:                 https://www.sauerstoff.ca
+url:                 http://www.sauerstoff.ca
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              Derek Sauer
-  url:               https://www.sauerstoff.ca
+  url:               http://www.sauerstoff.ca
   email:             dereksauer.ca@gmail.com
 
 # Custom vars
