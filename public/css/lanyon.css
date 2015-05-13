@@ -537,6 +537,18 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
+/* Payne's Grey */
+.theme-paynes .sidebar,
+.theme-paynes .sidebar-toggle:active,
+.theme-paynes #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #536878;
+}
+.theme-paynes .container a,
+.theme-paynes .sidebar-toggle,
+.theme-paynes .related-posts li a:hover {
+  color: #536878;
+}
+
 
 /*
  * Overlay sidebar
