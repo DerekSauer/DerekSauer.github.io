@@ -15,7 +15,7 @@ Let it dry completely and peel off the tape.
 
 ![Tape dams removed]({{ site.url }}/images/yellow44/Dams-Removed.jpg)
 
-Sand the hell out it and you're good to go.
+Use Q-Tips and Acetone to disolve away the bulk of the putty, leaving just what is needed to fill the gap. Sand the hell out it and you're good to go.
 
 ![Tape dams removed]({{ site.url }}/images/yellow44/Putty-Sanded.jpg)
 
