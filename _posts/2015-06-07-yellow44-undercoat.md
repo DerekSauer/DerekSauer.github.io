@@ -11,6 +11,6 @@ So the first step in painting Yellow 44 is preparing the surfaces under its regu
 
 ![Top side undercoat]({{ site.url }}/images/yellow44/Undercoat-Topside.jpg)
 
-![Bottom side undercoat]({{ site.url }}/images/yellow44/Undercoat-Bottom.jpg)
+![Bottom side undercoat]({{ site.url }}/images/yellow44/Undercoat-Underside.jpg)
 
 Alclad is pretty amazing stuff. Its the best metalizer paint I've ever used, even if it is cancer in a bottle. You're supposed to apply it rather lightly to the highest gloss black undercoat that you can manage. They make a glossy black primer that is perfect for it and it will give you a nearly reflective aluminium look if you use it. I didn't want that here since aluminium with its paint scraped off would oxidize leaving a duller look. I used a single light coat of Vallejo's Gloss Black on top of the flat black primer. It kills the shine just enough. The clear coat protective finish after all the painting is done will dull it even more. 
