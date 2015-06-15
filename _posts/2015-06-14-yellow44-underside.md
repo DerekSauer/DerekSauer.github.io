@@ -1,5 +1,5 @@
 ---
-title: 1/48 Yak-1 - Yellow 44 - Underside Painted
+title: 1/48 Yak-1 - Yellow 44 - Paint me like One of your French Girls
 layout: post
 ---
 
