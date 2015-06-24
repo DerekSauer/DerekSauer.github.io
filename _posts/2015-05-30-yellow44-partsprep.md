@@ -1,6 +1,7 @@
 ---
 title: 1/48 Yak-1 - Yellow 44 - Parts Preparation
 layout: post
+summary: Preparing Yellow 44's various parts for painting and assembly.
 ---
 
 It has been way to humid for the past week to do any painting and I'm getting sick of not getting any work done on Yellow 44. So if we can't paint, we can at least prepare the rest of the parts for painting once the air stops being so thick you can drink it. Everything is cleaned up and sanded, a veritable forest of parts.

@@ -1,6 +1,7 @@
 ---
 title: 1/48 Yak-1 - Yellow 44 - A New Project Appears
 layout: post
+summary: First look at the Accurate Miniature's Yak-1.
 ---
 
 The [Yakovlev Yak-1](http://en.wikipedia.org/wiki/Yakovlev_Yak-1) is my favorite Soviet fighter plane of the Second World War so I was pretty happy when I found one of Accurate Miniature's Yak-1 kits for next to nothing on E-Bay. On top of that the aircraft depicted in this kit is Yellow 44 which was flown by [Lydia Litvyak](http://en.wikipedia.org/wiki/Lydia_Litvyak), who still holds the record for aerial victories by female fighter pilot. Five of her twelve kills were accomplished in Yellow 44. 

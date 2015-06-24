@@ -1,6 +1,7 @@
 ---
 title: 1/48 Yak-1 - Yellow 44 - So Much Putty
 layout: post
+summary: Fixing the gaps in Yellow 44's joints.
 ---
 
 Major assemblies are completed but there's a lot of gaps to fill. My favorite way to handle gaps is with tape damns and liquid putty. Use strips of tape to protect the areas surrounding the gap and stop the putty from going where you don't want it go.

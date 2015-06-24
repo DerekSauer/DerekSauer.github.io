@@ -1,6 +1,7 @@
 ---
 title: Wet Palette - Up your Paint Game!
 layout: post
+summary: Creating a wet palette.
 ---
 
 Sick of your water base paint going dry in that crappy little plastic dish you've been using since forever? Working with Vallejo Model Color that immediately dries out if you stare at it too hard? You need a wet palette. Easy to make and probably cheaper than that shitty plastic dish with the color pots that Omer Dessers sells at a 500% markup.

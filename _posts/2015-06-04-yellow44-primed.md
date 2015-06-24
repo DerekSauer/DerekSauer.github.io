@@ -1,6 +1,7 @@
 ---
 title: 1/48 Yak-1 - Yellow 44 - Primed and Ready
 layout: post
+summary: Yellow 44 primed and ready for painting.
 ---
 
 The patched up air intake that gave me trouble last week ended up working out okay; everything works out okay with enough Milliput. Its not perfectly smooth but that's alright since presumably that part of the air plane would have gotten pretty banged up anyway operating out of crappy dirt airfields. Masking the canopy was a piece of cake; the clear bits have rather deep framing that made it easy to trim out the important parts. 

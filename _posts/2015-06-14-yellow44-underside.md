@@ -1,6 +1,7 @@
 ---
 title: 1/48 Yak-1 - Yellow 44 - Paint me like One of your French Girls
 layout: post
+summary: Painting the underside of Yellow 44.
 ---
 
 Salt! Its not just for adding flavour and hypertension to things. Its also an excellent medium for creating small scale chipped paint. Not only does it act like a mask with random jagged edges, it also discolours the surrounding paint slightly making it look distressed. Its all the chipping effects you want in one tasty package.

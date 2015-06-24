@@ -1,6 +1,7 @@
 ---
 title: 1/48 Yak-1 - Yellow 44 - Major Assemblies
 layout: post
+summary: Putting together Yellow 44's major assemblies.
 ---
 
 I figured that since most of the parts were cleaned up and prepared for painting, cementing the major assemblies would be quick and painless and after a little light sanding I would get to the fun part, painting, tomorrow. That was a terrible assumption to make. My earlier admiration at the clever engineering in this kit was misplaced as all the little clever bits have just made the assembly of this aircraft harder than they had to be. I can appreciate that Accurate Miniatures developed a very detailed, if part heavy, cockpit but they probably should have gone with more traditional methods for the rest of the kit. 

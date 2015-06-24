@@ -1,6 +1,7 @@
 ---
 title: 1/48 Yak-1 - Yellow 44 - Lady's Under-things
 layout: post
+summary: Painting Yellow 44's undercoat.
 ---
 
 Tactical fighters like the Yak-1 were usually based out of small primitive dirt or grass airfields in the middle of nowhere. As such they tended to get completely beat to hell by the dust and gravel and that's the look I wanted for Yellow 44. A plane that not only operated from cruddy airfields but also got into many fights with the Luftwaffe. Her weapons would have smeared carbon soot all over the nose, oil would be everywhere and the odd patched bullet or Flak hole could be found. 
