@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Sauerstoff
 tagline:             'Scale Modelling and Sundry Geekery'
 description:         'Things I do. Stuff I like.'
-url:                 'http://www.sauerstoff.ca/'
+url:                 'http://www.sauerstoff.ca'
 baseurl:             ''
 paginate:            5
 
