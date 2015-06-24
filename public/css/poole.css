@@ -113,6 +113,9 @@ strong {
   color: #303030;
 }
 
+sub {
+    font-size: 50%;
+}
 
 /* Lists */
 ul, ol, dl {
