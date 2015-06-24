@@ -7,5 +7,5 @@ summary: Archive of all blog posts.
 ## Blog Posts
 
 {% for post in site.posts %}
-  * **{{ post.date | date_to_string }}** &raquo; [ {{ post.title }} ]({{ post.url }}): *{{ post.summary}}*
+  * **<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>** &raquo; [ {{ post.title }} ]({{ post.url }}): *{{ post.summary}}*
 {% endfor %}

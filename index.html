@@ -13,7 +13,7 @@ summary: Sauerstoff home page.
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <time datetime="{{ post.date | date_to_xmlschema }}"><span class="post-date">{{ post.date | date_to_string }}</span></time>
 
     {{ post.content }}
   </div>
