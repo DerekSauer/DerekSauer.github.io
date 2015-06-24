@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Sauerstoff
 tagline:             'Scale Modelling and Sundry Geekery'
-description:         'A self indulgent exposé of modelling, gaming, code and whatever else I fancy.'
+description:         'Things I do. Stuff I like.'
 url:                 http://www.sauerstoff.ca
 baseurl:             ''
 paginate:            5
