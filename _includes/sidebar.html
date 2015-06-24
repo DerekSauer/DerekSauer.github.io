@@ -28,6 +28,15 @@
             
       <a class="sidebar-nav-item" href="{{ site.url }}/atom.xml">RSS Feed</a>
     </nav>
+    
+    <h2>Recent Posts</h2>
+    <ul class="posts">  
+	{% for post in site.posts limit:5 %}  
+	   <li>  
+		   <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>  
+	   </li>  
+	{% endfor %}  
+    </ul>
 
     <p><sub>Copyright &copy; Derek Sauer {{ site.time | date: '%Y' }}. All rights reserved.</sub></p>
   </div>

@@ -75,6 +75,11 @@ html {
   color: #fff;
 }
 
+.sidebar h2
+{
+    color: #fff
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
