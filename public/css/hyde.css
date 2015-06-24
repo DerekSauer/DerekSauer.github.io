@@ -248,3 +248,12 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Brown */
+.theme-payne .sidebar {
+  background-color: #536878;
+}
+.theme-payne .content a,
+.theme-payne .related-posts li a:hover {
+  color: #536878;
+}
