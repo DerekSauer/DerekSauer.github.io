@@ -29,8 +29,8 @@
       <a class="sidebar-nav-item" href="{{ site.url }}/atom.xml">RSS Feed</a>
     </nav>
     
-    <h2>Recent Posts</h2>
-    <ul class="posts">  
+    <h3>Recent Posts</h3>
+    <ul class="posts-recent">
 	{% for post in site.posts limit:5 %}  
 	   <li>  
 		   <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>  

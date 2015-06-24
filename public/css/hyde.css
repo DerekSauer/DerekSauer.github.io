@@ -75,7 +75,7 @@ html {
   color: #fff;
 }
 
-.sidebar h2
+.sidebar h3
 {
     color: #fff
 }
@@ -102,6 +102,11 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+}
+
+.posts-recent a 
+{
+    font-size: 16px;
 }
 
 /* Sticky sidebar
@@ -170,8 +175,6 @@ a.sidebar-nav-item:focus {
     margin-right: 22rem;
   }
 }
-
-
 
 /*
  * Themes
