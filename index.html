@@ -6,16 +6,17 @@ summary: Sauerstoff - Scale Modelling and Sundry Geekery.
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
+  <div class="post" itemscope itemtype="https://schema.org/BlogPosting">
+    <h1 class="post-title" itemprop="name">
       <a href="{{ site.url }}{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
 
     <time datetime="{{ post.date | date_to_xmlschema }}"><span class="post-date">{{ post.date | date_to_string }}</span></time>
-
+    <div itemprop="articleBody">
     {{ post.content }}
+    </div>
   </div>
   {% endfor %}
 </div>

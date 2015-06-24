@@ -2,10 +2,12 @@
 layout: default
 ---
 
-<div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
+<div class="post" itemscope itemtype="https://schema.org/BlogPosting">
+  <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
   <time datetime="{{ page.date | date_to_xmlschema }}"><span class="post-date">{{ page.date | date_to_string }}</span></time>
+  <div itemprop="articleBody">
   {{ content }}
+  </div>
 </div>
 
 <div class="related">
