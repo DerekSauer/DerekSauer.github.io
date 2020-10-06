@@ -1,1 +1,1 @@
-﻿This is my website and blog.
+﻿This is my website.
